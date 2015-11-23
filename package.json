@@ -1,0 +1,26 @@
+{
+  "name": "node-mispelr",
+  "version": "1.0.0",
+  "description": "Mispells words in several ways.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaelpaulukonis/node-mispelr.git"
+  },
+  "keywords": [
+    "text",
+    "nlp"
+  ],
+  "author": "Michael Paulukonis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelpaulukonis/node-mispelr/issues"
+  },
+  "homepage": "https://github.com/michaelpaulukonis/node-mispelr"
+}
