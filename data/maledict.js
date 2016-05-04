@@ -6,7 +6,7 @@
  https://en.wikipedia.org/wiki/Wikipedia:Lists_of_common_misspellings
  https://en.wikipedia.org/wiki/Wikipedia:Lists_of_common_misspellings/Homophones
 */
-var maledict = {
+module.exports = {
     '1990s': ['ninties'],
     'a lot': ['alot'],
     'a vengeance': ['avengence'],

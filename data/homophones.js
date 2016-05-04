@@ -1,4 +1,4 @@
-var homophones = {
+module.exports  = {
     "accept":         ["except"],
     "except":         ["accept"],
     "acclamation":    ["acclimation"],

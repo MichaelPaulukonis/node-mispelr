@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/michaelpaulukonis/node-mispelr/issues"
   },
-  "homepage": "https://github.com/michaelpaulukonis/node-mispelr"
+  "homepage": "https://github.com/michaelpaulukonis/node-mispelr",
+  "dependencies": {
+    "pos": "0.3.0"
+  }
 }
